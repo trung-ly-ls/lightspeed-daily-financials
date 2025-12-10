@@ -20,7 +20,7 @@ Before you begin, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/lightspeed-daily-financials.git
+git clone https://github.com/trung-ly-ls/lightspeed-daily-financials.git
 ````
 
 ### 2. Move into the folder
