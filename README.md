@@ -18,6 +18,7 @@ Before you begin, make sure you have:
 ## 🚀 Setup Instructions
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/yourusername/lightspeed-daily-financials.git
 ````
@@ -60,6 +61,12 @@ venv\Scripts\activate        # Windows
 
 ```bash
 pip install -r requirements.txt
+```
+
+or manually using
+
+```bash
+pip install python-dotenv requests
 ```
 
 ### 7. Run the script
